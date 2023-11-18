@@ -30,9 +30,8 @@ If you want to run this app locally or integrate it into your project, follow th
 
 ## Author
 
-- [SABYASACHI GHOSH]
-- [163sabyasachighoshxiis@gmail.com]
-- [https://github.com/sabyasachi008]
+- [PREETHAM N]
+- [https://github.com/preetham4693/TO_DO_LIST.git]
 
 Feel free to use, modify, and contribute to this project as needed. If you have any questions or suggestions, please don't hesitate to reach out.
 
